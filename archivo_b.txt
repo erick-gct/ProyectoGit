@@ -1,0 +1,2 @@
+Esta es la primera linea del archivo b
+Esta es la segunda linea del archivo b
